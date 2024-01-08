@@ -7,10 +7,8 @@ import { MatTabChangeEvent } from '@angular/material/tabs';
   styleUrl: './home.component.css',
 })
 export class HomeComponent {
-
   onTabChanged(event: MatTabChangeEvent): void {
     console.log('Scheda cambiata:', event.index);
-    
   }
 
   isMenuOpen = false;
