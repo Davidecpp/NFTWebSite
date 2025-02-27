@@ -1,9 +1,15 @@
 Frontend
 
-Aggiornare la pagina per visualizzare le modifiche:
-dopo aver aggiunto un wallet nella pagina delle info utente e
-dopo aver fatto il login con un account o aver comprato un nft per aggiornare il rank utente che si trova in alto a sinistra della barra della home
+Refresh Page for Updates:
 
-Inserire sempre un portafoglio in caso di vendita , acquisto o offerta in asta per un nft -
-Inserire sempre la password quando si vogliono modificare le informazioni del proprio account nella pagina delle info utente - 
-Rispettare il pattern per l'inserimento della durata dell'asta hh:mm:ss (es. 02:36:02 per far durare l'asta 2 ore 36 minuti e 2 secondi) 
+After adding a wallet on the user info page.
+After logging in with an account or purchasing an NFT to update the user rank displayed in the top-left corner of the home bar.
+Wallet Requirement:
+
+Always include a wallet for selling, buying, or bidding on an NFT.
+Password Requirement:
+
+Always enter the password when modifying account information on the user info page.
+Auction Duration Format:
+
+Follow the pattern hh:mm:ss for entering auction duration (e.g., 02:36:02 for an auction lasting 2 hours, 36 minutes, and 2 seconds).
